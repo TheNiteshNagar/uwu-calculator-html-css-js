@@ -1,6 +1,8 @@
+// audio sound 
+const uwuPlay = new Audio('./public/audios/audio-uwu.mp3')
+
 // features buttons 
 document.querySelector('.uwu-button').addEventListener('click', () => {
-  const uwuPlay = new Audio('./public/audios/audio-uwu.mp3')
   uwuPlay.currentTime = 0
   uwuPlay.play()
 })
