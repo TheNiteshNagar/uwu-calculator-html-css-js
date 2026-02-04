@@ -1,5 +1,6 @@
-// audio sound 
+// audio sound outside of event so audio should be preloaded
 const uwuPlay = new Audio('./public/audios/audio-uwu.mp3')
+uwuPlay.preload = 'auto'
 
 // features buttons 
 document.querySelector('.uwu-button').addEventListener('click', () => {
