@@ -3,7 +3,7 @@
 Playful, minimal calculator with light/dark themes, fullscreen, and a tiny UWU sound. Pure HTML, CSS, and JS.
 
 ## Live demo
-- Live: https://theniteshnagar.github.io/uwu-calculator-html-css-js/
+- Live: https://theniteshnagar.github.io/uwu-calculator/
 - Preview: ![Live demo](public/images/live-demo.gif)
 
 ## Screenshots
